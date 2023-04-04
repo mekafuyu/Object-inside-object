@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\atividadeGC\bin\Debug\net6.0\atividadeGC.exe
+C:\Users\disrct\Desktop\atividadeGC\bin\Debug\net6.0\atividadeGC.deps.json
+C:\Users\disrct\Desktop\atividadeGC\bin\Debug\net6.0\atividadeGC.runtimeconfig.json
+C:\Users\disrct\Desktop\atividadeGC\bin\Debug\net6.0\atividadeGC.dll
+C:\Users\disrct\Desktop\atividadeGC\bin\Debug\net6.0\atividadeGC.pdb
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\atividadeGC.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\atividadeGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\atividadeGC.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\atividadeGC.AssemblyInfo.cs
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\atividadeGC.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\atividadeGC.dll
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\refint\atividadeGC.dll
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\atividadeGC.pdb
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\atividadeGC.genruntimeconfig.cache
+C:\Users\disrct\Desktop\atividadeGC\obj\Debug\net6.0\ref\atividadeGC.dll
