@@ -1,6 +1,6 @@
-﻿//         _______ ______ _   _  _____   //\   ____  
+﻿//        _______ ______ _   _  _____   //\   ____  
 //     /\|__   __|  ____| \ | |/ ____| |/_\| / __ \     LEIA SEGUINDO OS MARCADORES 1,2,3,4 PARA FACILITAR O ENTENDIMENTO
-//    /  \  | |  | |__  |  \| | |       / \ | |  | |    SE NÃO ENTENDER DE PRIMEIRA, CONTINUE TENTANDO ENTENDER NA 2ª, 3ª, 4ª...
+//    /  \  | |  | |__  |  \| | |       / \ | |  | |    SE NÃO ENTENDER DE PRIMEIRA, CONTINUE TENTANDO ENTENDER NA 2ª, 3ª, 4ª... (LEIA VÁRIAS VEZES)
 //   / /\ \ | |  |  __| | . ` | |      / _ \| |  | |    CONDICIONE SEU CÉREBRO A TENTAR O MÁXIMO, NÃO DEPENDER DOS OUTROS E NÃO DESISTIR POR ACHAR DÍFICIL
 //  / ____ \| |  | |____| |\  | |____ / ___ \ |__| |    
 // /_/    \_\_|  |______|_| \_|\_____/_/   \_\____/     ESPERO QUE AJUDE! 😘
@@ -33,7 +33,7 @@ Console.WriteLine(list.FindNome("123.123.123-01")); // Procurando por um cliente
 
 
 //======================================================| 3 |====================================================
-public class List                                   // Criando nossa classe de lista, a responsabilidade dela é achar os valores pra gente
+public class List                                   // Criando nossa classe de lista, a responsabilidade dela é agrupar, adicionar, achar os valores pra gente
 {
     private Node? root = null;                      // Dizendo que o primeiro item (root) dessa lista, o List.root (root é um objeto do tipo Node), começa valendo null. Pq não tem nada
 
@@ -95,16 +95,16 @@ public class Node
 public class Cliente
 {
 
-    //Definindo valores padrão para não precisar tratar null
+    // Definindo valores padrão para não precisar tratar null
     private long cpf = 0;
     private string nome = "";
 
-    //definindo get e set para o nome privado
+    // Definindo get e set para o nome privado
     public string Nome {
         get{return this.nome;}
         set{this.nome = value;}}
 
-    //definindo get e set para o cpf privado, que salvo como long
+    // Definindo get e set para o cpf privado, que salvo como long
     public string Cpf{
         get { 
             string tempCpf = this.cpf.ToString();                           // pega o cpf como long e converte para string
